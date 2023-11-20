@@ -37,7 +37,7 @@ Markdown = "3.3.4"
 onclass = "^1.2"
 rich = ">=9.1.0"
 scanorama = "^1.7.3"
-scanpy = "^1.9.1"
+scanpy = "1.9.1"
 obonet = "^1.0"
 
 [tool.poetry.extras]
