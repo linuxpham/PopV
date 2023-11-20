@@ -35,7 +35,6 @@ grpcio = "^1.51.1"
 h5py = "^3.7.0"
 huggingface-hub = "0.11.1"
 imgkit = "1.2.2"
-importlib-metadata = "4.2.0"
 Markdown = "3.3.4"
 onclass = "^1.2"
 pandas = ">=1.4,<2.0"
@@ -48,8 +47,8 @@ tqdm = "4.64.0"
 transformers = "4.25.1"
 typing-extensions = "4.2.0"
 obonet = "^1.0"
-jaxlib = "0.4.13"
-jax = "0.4.13"
+jaxlib = "^0.4.10"
+jax = "^0.4.10"
 
 [tool.poetry.extras]
 dev = ["black", "pytest", "pytest-cov", "flake8", "loompy", "jupyter", "nbformat", "nbconvert", "pre-commit", "isort"]
