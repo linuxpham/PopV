@@ -29,23 +29,16 @@ readme = "README.md"
 python = ">=3.8,<3.12"
 anndata = "^0.8"
 bbknn = "^1.5.1"
-black = {version = ">=22.3", optional = true}
 celltypist = "^1.3.0"
-flake8 = {version = ">=3.7.7", optional = true}
 gdown = "^4.6.0"
 grpcio = "^1.51.1"
 h5py = "^3.7.0"
 huggingface-hub = "0.11.1"
 imgkit = "1.2.2"
 importlib-metadata = "4.2.0"
-ipython = {version = ">=7.20", optional = true, python = ">=3.7"}
-ipywidgets = "*"
-isort = {version = ">=5.7", optional = true}
 Markdown = "3.3.4"
 onclass = "^1.2"
 pandas = ">=1.4,<2.0"
-pre-commit = {version = ">=2.7.1", optional = true}
-pytest = {version = ">=4.4", optional = true}
 rich = ">=9.1.0"
 scanorama = "^1.7.3"
 scanpy = "^1.9.1"
